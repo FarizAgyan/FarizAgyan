@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Fariz Agyan ðŸ‘‹</h1>
+<h1 align="center">Hi there, I'm Fariz Agyan 👋</h1>
 
-<h3 align="center">Data Processing Specialist @ Market Research | Transitioning into Data Analytics ðŸ“Š</h3>
+<h3 align="center">Data Processing Specialist @ Market Research | Transitioning into Data Analytics 📊</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=6%2B+years+turning+raw+data+into+insights;Now+learning+to+make+it+talk;Python+%7C+SQL+%7C+Tableau" alt="Typing SVG" />
@@ -8,17 +8,17 @@
 
 ---
 
-### ðŸ‘¨â€ðŸ’» About Me
+### 👨‍💻 About Me
 
-- ðŸ”­ Currently working as a **Data Processing Specialist** at a market research company (since 2018)
-- ðŸŒ± Currently leveling up my skills to become a **Data Analyst**
-- ðŸ’¡ Passionate about turning raw, messy data into clear, actionable insights
-- ðŸ› ï¸ Building hands-on projects using Python, SQL, and Tableau to sharpen my analytics skills
-- ðŸ“« Open to connect and collaborate on data-related projects
+- 🔭 Currently working as a **Data Processing Specialist** at a market research company (since 2018)
+- 🌱 Currently leveling up my skills to become a **Data Analyst**
+- 💡 Passionate about turning raw, messy data into clear, actionable insights
+- 🛠️ Building hands-on projects using Python, SQL, and Tableau to sharpen my analytics skills
+- 📫 Open to connect and collaborate on data-related projects
 
 ---
 
-### ðŸ§° Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,7 +31,7 @@
 
 ---
 
-### ðŸ“Œ Featured Project
+### 📌 Featured Project
 
 **[Capstone: E-Commerce Data Analysis (Olist Dataset)](https://github.com/FarizAgyan/data_analyst_Olist)**
 End-to-end data analysis project covering data cleaning, exploratory analysis, and dashboard visualization to uncover business insights from e-commerce transaction data.
@@ -39,7 +39,7 @@ End-to-end data analysis project covering data cleaning, exploratory analysis, a
 
 ---
 
-### ðŸ¤ Connect with Me
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/farizagyan" target="_blank">
@@ -52,4 +52,4 @@ End-to-end data analysis project covering data cleaning, exploratory analysis, a
 
 ---
 
-<p align="center"><i>Always learning, always improving. ðŸš€</i></p>
+<p align="center"><i>Always learning, always improving. 🚀</i></p>
